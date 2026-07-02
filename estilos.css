@@ -1,6 +1,14 @@
 body {
-    background-color: rgb(224, 62, 13);
+    background-color: aquamarine;
 }
-#imagen-aleatoria{
+.imagen-aleatoria{
     border-radius: 50%;
-}git 
+    margin: 0 10px;
+}
+.imagenes{
+    display: flex;
+}
+
+#imagen-aleatoria{
+    opacity: 50%;
+}
